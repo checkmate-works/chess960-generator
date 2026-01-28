@@ -1,5 +1,5 @@
 {
-  "name": "chess960-generator",
+  "name": "chess960",
   "compatibility_date": "2026-01-28",
   "assets": {
     "directory": "./dist"
